@@ -1,0 +1,2 @@
+#Excluded all text files, so everyone can have a text file in working branch for notes, etc.
+*.txt
